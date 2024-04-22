@@ -4,7 +4,7 @@ Solución reto 9 de parte del estudiante Rafael Martínez del programa de Ingeni
 
 # Crear cuenta de Stack Overflow #
 
-[Usuario-Stack-Overflow.png](https://postimg.cc/mcBJTNR8)
+[![Usuario-Stack-Overflow.png](https://i.postimg.cc/vmVsL3KF/Usuario-Stack-Overflow.png)](https://postimg.cc/mcBJTNR8)
 
 Ya está creada la cuenta de Stack Overflow
 
